@@ -9,7 +9,7 @@ public class sp {
         try {
             
             // API URL
-            String apiUrl = "https://api.chucknorris.io/jokes/random";
+            String apiUrl = "https://api.zippopotam.us/us/33162";
 
             // Create a URL object
             URL url = new URL(apiUrl);
